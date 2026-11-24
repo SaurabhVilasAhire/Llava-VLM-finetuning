@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+result/
+wandb/
+*.ckpt
+.env
+.DS_Store
